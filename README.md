@@ -1,1 +1,1 @@
-# IDSC_expanding_dataSC
+# Data Science and Machine Learning Methodology Dissemination in Latin America
